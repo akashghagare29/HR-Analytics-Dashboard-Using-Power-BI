@@ -51,13 +51,16 @@
 
 <h2>Sample Data</h2>
 <p>
-    The dashboard is built with sample HR data in CSV format, which includes employee details such as:
+    The dataset contains the following key fields:
 </p>
 <ul>
-    <li>Name, Age, Gender, Department</li>
-    <li>Date of Hire, Termination Date (if applicable)</li>
-    <li>Performance Scores</li>
-    <li>Salary, Benefits, and Bonuses</li>
+    <li>EmpID: Unique identifier for each employee.</li>
+    <li>Age, AgeGroup, Gender: Employee demographic information.</li>
+    <li>Attrition: Indicates if the employee has left the company.</li>
+    <li>Department, JobRole, EducationField: Job-related details.</li>
+    <li>JobSatisfaction, WorkLifeBalance: Metrics indicating employee satisfaction levels.</li>
+    <li>YearsAtCompany, YearsInCurrentRole: Tenure-related metrics.</li>
+    <li>MonthlyIncome, DailyRate: Salary and performance compensation data.</li>
 </ul>
 
 <h2>Future Enhancements</h2>
