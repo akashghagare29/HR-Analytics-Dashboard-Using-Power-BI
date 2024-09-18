@@ -1,7 +1,5 @@
 # HR-Analytics-Dashboard-Using-Power-BI
 
-<h1>HR Analytics Dashboard Using Power BI</h1>
-
 <h2>Overview</h2>
 <p>
     This project presents an interactive <strong>HR Analytics Dashboard</strong> created in <strong>Power BI</strong>.
@@ -30,8 +28,7 @@
 <h2>Dashboard Preview</h2>
 <p>
     <!-- Add your screenshot links here -->
-    <img src="screenshot1.png" alt="HR Dashboard Preview 1" style="width: 100%; max-width: 600px;">
-    <img src="screenshot2.png" alt="HR Dashboard Preview 2" style="width: 100%; max-width: 600px;">
+    <img src="hr-analytics-dashboard.jpg" alt="HR Dashboard Preview 1" style="width: 100%; max-width: 600px;">
 </p>
 
 <h2>How to Use</h2>
