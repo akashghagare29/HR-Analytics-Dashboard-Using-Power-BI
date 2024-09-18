@@ -44,7 +44,7 @@
     <li>Ensure you have <strong>Power BI Desktop</strong> installed. You can download it from <a href="https://powerbi.microsoft.com/desktop/" target="_blank">here</a>.</li>
     <li>Clone or download this repository:</li>
     <pre>
-        <code>git clone https://github.com/yourusername/hr-analytics-dashboard.git</code>
+        <code>https://github.com/akashghagare29/HR-Analytics-Dashboard-Using-Power-BI.git</code>
     </pre>
     <li>Open the <code>HR_Analytics_Dashboard.pbix</code> file in Power BI Desktop.</li>
 </ol>
